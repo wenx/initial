@@ -6,4 +6,5 @@ The Battle Lines in Tech are Being Redrawn
 https://www.aboveavalon.com/notes/2017/1/12/the-battle-lines-in-tech-are-being-redrawn
 Git教程
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
-
+深入浅出 Git
+https://blog.coding.net/blog/git-from-the-inside-out
